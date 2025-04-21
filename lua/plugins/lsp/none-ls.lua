@@ -22,7 +22,7 @@ return {
                 -- go fmt
                 formatting.goimports,
                 -- rust fmt
-                formatting.rustfmt,
+                -- formatting.rustfmt,
                 -- frontend
                 formatting.prettier.with({
                     filetypes = {
