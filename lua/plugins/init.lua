@@ -1,9 +1,9 @@
 return {
     -- ================= 主题 ==================
     -- { import = "plugins.theme.onedark" },
-    --[[ { import = "plugins.theme.tokyonight" }, ]]
+    { import = "plugins.theme.tokyonight" },
     -- { import = "plugins.theme.nightfox" },
-    { import = "plugins.theme.catppuccin" },
+    -- { import = "plugins.theme.catppuccin" },
 
     -- ================= lsp ==================
     -- 有几个插件安装顺序很重要， 先mason, 然后lspconfig
